@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -um * .hmtl ../
+cp -un * .html ../
